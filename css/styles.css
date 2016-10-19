@@ -1,0 +1,13 @@
+#letter {
+  display: none;
+  border: 2px solid black;
+  width: 90%;
+  padding: 10%;
+  box-sizing: border-box;
+  position: relative;
+}
+
+h2 {
+  padding-left: 60%;
+  font-size: 20px;
+}
